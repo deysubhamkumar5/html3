@@ -1,0 +1,6 @@
+::-webkit-validation-bubble-heading {
+    color: aqua;
+  color: var(--color-text-primary);
+  font-size: 1rem;
+  font-weight: bold;
+}
